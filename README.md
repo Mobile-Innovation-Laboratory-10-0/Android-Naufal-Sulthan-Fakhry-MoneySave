@@ -27,7 +27,7 @@ MoneySave adalah aplikasi manajemen keuangan pribadi berbasis Android yang diran
 4. Jalankan aplikasi pada Emulator atau Device fisik.
 
 ## Video Presentasi
-Link video presentasi teknis:
+Link video presentasi:
 https://youtu.be/U3UDbpcmJpE
 ---
 Disusun oleh: Naufal Sulthan Fakhry - 607062400092
