@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "325237522567",
+    "project_id": "moneysave-d503b",
+    "storage_bucket": "moneysave-d503b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325237522567:android:a44b95b62778d69b41b822",
+        "android_client_info": {
+          "package_name": "com.example.moneysave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc97zTOn1GrtnQA2ojIrvyAFHMGUbQrRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
